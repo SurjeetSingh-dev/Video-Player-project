@@ -15,9 +15,7 @@
   "author": "Surjeet Singh",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.4"
-  },
-  "dependencies": {
+    "nodemon": "^3.1.4",
     "prettier": "^3.3.3"
   }
 }
